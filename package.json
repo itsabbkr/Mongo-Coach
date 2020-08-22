@@ -1,0 +1,21 @@
+{
+	"name": "mongoman",
+	"version": "1.0.0",
+	"description": "Learning MongoDB",
+	"main": "index.js",
+	"directories": {
+		"test": "test"
+	},
+	"dependencies": {
+		"mongoose": "^5.10.0",
+		"nodemon": "^2.0.4"
+	},
+	"devDependencies": {
+		"mocha": "^8.1.1"
+	},
+	"scripts": {
+		"test": "mocha"
+	},
+	"author": "",
+	"license": "ISC"
+}
